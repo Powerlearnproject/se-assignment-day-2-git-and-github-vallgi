@@ -24,7 +24,6 @@ Visibility and Access Control: GitHub offers visibility into the project's histo
 
 Integration and Automation: GitHub integrates with various tools and services, such as continuous integration (CI) systems, code quality checkers, and deployment pipelines. This automation helps streamline the development workflow.
 
-Community and Open Source: GitHub hosts a vast number of open-source projects, making it a central hub for sharing and contributing to code. The platform fosters community engagement through features like issue tracking and discussions.
 
 Maintaining Project Integrity with Version Control:
 
